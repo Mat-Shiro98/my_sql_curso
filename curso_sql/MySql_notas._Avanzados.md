@@ -1,7 +1,7 @@
 # Crear Base de datos
 >Para crear una base de datos en MySQL, puedes usar el siguiente comando:
 
-    CREATE DATABE mi_base_de_datos;   ---> (mi_base_de_datos) es donde se agrega el nombre
+    CREATE DATABASE mi_base_de_datos;   ---> (mi_base_de_datos) es donde se agrega el nombre
 
 # Crear una tabla
 >Las tablas se utilizan para organizar los datos.
